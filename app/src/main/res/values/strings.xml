@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Localization_Usage</string>
+    <string name="d_ugo_geograficzna">Długość geograficzna</string>
+    <string name="d_g">D.G</string>
+    <string name="textview">TextView</string>
+    <string name="s_g">S.G</string>
+    <string name="sprawd">Sprawdź</string>
+</resources>
